@@ -1,0 +1,74 @@
+{
+    "name": "˹ᴏᴛᴏ - ʙᴏᴛ˼ ✘ ˹ᴍᴜsɪᴄ˼",
+    "description": "Pyrogram və Py-Tgcalls ilə Python dilində yazılmış Telegram Musiqi Pleyeri Botu.",
+    "logo": "https://telegra.ph/file/79d1c45a428cc6a37feca.jpg",
+    "keywords": [
+    "python3",
+    "telegram",
+    "bot",
+    "Otobot",
+    "MusicBot",
+    "telegram-bot",
+    "pyrogram"
+    ],
+    "env": {
+      "API_ID": {
+        "description": "Bu dəyəri əldə edin https://my.telegram.org",
+        "value": "api id",
+        "required": true
+      },
+      "API_HASH": {
+        "description": "Bu dəyəri əldə edin https://my.telegram.org",
+        "value": "api hash",
+        "required": true
+      },
+      "BOT_TOKEN": {
+        "description": "Botfather-dən Bot nişanı",
+        "value": "bot token yaz",
+        "required": true
+      },
+      "MONGO_DB_URI": {
+        "description": "Buradan mongodb url əldə edin https://cloud.mongodb.com.",
+        "value": " mongodb url yaz",
+        "required": true
+      },
+      "OWNER_ID": {
+        "description": "SAHİB kimi əlavə etmək istədiyiniz istifadəçinin istifadəçi id-si.",
+        "value": "id yaz",
+        "required": true
+      },
+      "STRING_SESSION": {
+        "description": "Telegram-da @otosessionbot - dan Pyrogram v2 Simli Sessiya Alın.",
+        "value": "AgFvOpwApe558f6oLQ5sp9SLBSq-VyHAVaTCZaDtY1ArNivBjjjQyeFU0NIGc83Lis8EvxtwPiSdDzQQ93253oZ2BpjbP54kI8dha47DhCkzN9wQMFTprrbPdhCzLqJBY0JTCilVpXu0WANNZjBlNCLvuf_K8_YkOL8x5H3DGZ4vFtTLfRungMsAumOEKIrCFu8bqUYr2flXt7_J8n-Lejlb1vxPhbpdl-Nm_W398qQNdzc0sfJTg8t7_8V5ndad7TGki9hAc8FBGt5f4UNFLYrdEHio2w0kMLnyVcJnK0orr0xeWrYPMEHW76CtNQxVYplclazgq_iasnIk6OAgGajBS3aWYQAAAAFZvEdgAA",
+        "required": true
+      },
+      "HEROKU_API_KEY": {
+        "description": "Heroku hesabınızın API açarı",
+        "value": "81640ab6-3294-4b5c-8e75-f5d776a5b5b7",
+        "required": false
+      },
+      "HEROKU_APP_NAME": {
+        "description": "Heroku tətbiqinizin adı",
+        "value": "https://dashboard.heroku.com/account",
+        "required": false
+      },
+      "LOGGER_ID": {
+        "description": "Log Group ID-niz, botunuzu əlavə edin və tam hüquqlara malik admin kimi təbliğ edin!. Kanal ki id mat daal dena bsdk.",
+        "value": "-1001995040571",
+        "required": true
+      }
+    },
+    "buildpacks": [
+          {
+              "url": "heroku/python"
+          },
+          {
+              "url": "heroku/nodejs"
+          },
+          {
+              "url": "https://github.com/Qadirnesirov/AuraMusicpg.git"
+          }
+      ],
+      "stack": "container"
+}
+
