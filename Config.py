@@ -115,12 +115,12 @@ SONG_DOWNLOAD_DURATION_LIMIT = int(
 if SUPPORT_CHANNEL:
     if not re.match("(?:http|https)://otobotblog", SUPPORT_CHANNEL):
         raise SystemExit(
-            "[ERROR] - Your SUPPORT_CHANNEL url is wrong. Please ensure that it starts with https://"
+            "[ERROR] - SUPPORT_CHANNEL url yanlışdır. ilə başladığına əmin olun https://"
         )
 
 if SUPPORT_CHAT:
     if not re.match("(?:http|https)://otobotsport", SUPPORT_CHAT):
         raise SystemExit(
-            "[ERROR] - Your SUPPORT_CHAT url is wrong. Please ensure that it starts with https://"
+            "[ERROR] - SUPPORT_CHAT URL-iniz səhvdir. ilə başladığına əmin olun https://"
         )
       
