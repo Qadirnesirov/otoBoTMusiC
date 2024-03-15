@@ -24,15 +24,15 @@
 
 <p align="center">
 
-<a href="https://github.com/Qadirnesirov/AuraMusicpg.git"> <img src="https://img.shields.io/github/stars/venombolteop/otobotMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Qadirnesirov/otoBoTMusiC.git"> <img src="https://img.shields.io/github/stars/otobotbolteop/otobotMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 
-<a href="https://github.com/Qadirnesirov/AuraMusicpg.git"> <img src="https://img.shields.io/github/forks/venombolteop/otobotMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="tps://img.shields.io/github/forks/otobotbolteop/otobotMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 
-<a href="https://github.com/Qadirnesirov/AuraMusicpg.git/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Qadirnesirov/otoBoTMusiC.git"> <img src="ht"> <img src="ht"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 
-<a href="https://github.com/Qadirnesirov/AuraMusicpg.git"> <img src="https://img.shields.io/github/last-commit/venombolteop/otobotMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/Qadirnesirov/otoBoTMusiC.git"> <img src="https://img.shields.io/github/last-commit/otobotbolteop/otobotMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 
 </p>
 
@@ -60,7 +60,7 @@
 
 
 
-- Get your [Necessary Variables](https://github.com/Qadirnesirov/AuraMusicpg.git)
+- Get your [Necessary Variables](https://github.com/Qadirnesirov/otoBoTMusiC.git)
 
 - Upgrade and Update by :
 
@@ -140,5 +140,5 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 
 
-- <b> _xüsusi təşəkkürlər [Komanda otobot](https://github.com/Qadirnesirov) üçün [oTo BoT Music BoT](https://github.com/Qadirnesirov/AuraMusicpg)_ </b>
+- <b> _xüsusi təşəkkürlər [Komanda otobot](https://github.com/Qadirnesirov) üçün [oTo BoT Music](https://github.com/Qadirnesirov/otoBoTMusiC)_ </b>
 
