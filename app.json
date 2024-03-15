@@ -14,27 +14,27 @@
     "env": {
       "API_ID": {
         "description": "Bu dəyəri əldə edin https://my.telegram.org",
-        "value": "api id",
+        "value": "24066716",
         "required": true
       },
       "API_HASH": {
         "description": "Bu dəyəri əldə edin https://my.telegram.org",
-        "value": "api hash",
+        "value": "09e30e6e0b1a4c71e43a055979c51b3b",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "Botfather-dən Bot nişanı",
-        "value": "bot token yaz",
+        "value": "6345725026:AAGfBaOGmaKS6ecLRxRopu5bhC0slCIsKTQ",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Buradan mongodb url əldə edin https://cloud.mongodb.com.",
-        "value": " mongodb url yaz",
+        "value": "mongodb+srv://nesirovq1997:qadir1997@cluster0.pavador.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "OWNER_ID": {
         "description": "SAHİB kimi əlavə etmək istədiyiniz istifadəçinin istifadəçi id-si.",
-        "value": "id yaz",
+        "value": "6184936428",
         "required": true
       },
       "STRING_SESSION": {
